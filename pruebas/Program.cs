@@ -26,10 +26,10 @@ namespace manejoArchivos
            
             Console.Clear(); 
             Console.WriteLine("Seleccion la operación a realizar: ");
-            Console.WriteLine("1. Registrar nuevo estudiante");
-            Console.WriteLine("2. Actualizar datos de estudiante");
-            Console.WriteLine("4. Mostrar listado de estudiantes");
-            Console.WriteLine("5. Salir");
+            Console.WriteLine("1. Registrar nuevo producto");
+            Console.WriteLine("2. Actualizar datos de producto");
+            Console.WriteLine("3. Mostrar listado de productos");
+            Console.WriteLine("4. Salir");
             Console.Write("\nOpcion: ");
 
             switch (Console.ReadLine())
@@ -61,7 +61,7 @@ namespace manejoArchivos
 
             using (StreamWriter sw = File.AppendText(getPath()))
             {
-                sw.WriteLine("{0}; {1}", nombre, precio);
+                sw.WriteLine("{0}; ${1}", nombre, precio);
                 sw.Close();
             }
         }
