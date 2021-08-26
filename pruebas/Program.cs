@@ -40,6 +40,9 @@ namespace manejoArchivos
             
                 default:
                     return false;
+
+                case "4":
+                    return false;
             }
         }
 
