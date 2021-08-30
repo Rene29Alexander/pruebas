@@ -1,0 +1,7 @@
+C:\Users\alexi\OneDrive\Escritorio\Proyectos\archivo de productos\archivo de productos\bin\Debug\archivo de productos.exe.config
+C:\Users\alexi\OneDrive\Escritorio\Proyectos\archivo de productos\archivo de productos\bin\Debug\archivo de productos.exe
+C:\Users\alexi\OneDrive\Escritorio\Proyectos\archivo de productos\archivo de productos\bin\Debug\archivo de productos.pdb
+C:\Users\alexi\OneDrive\Escritorio\Proyectos\archivo de productos\archivo de productos\obj\Debug\archivo de productos.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Escritorio\Proyectos\archivo de productos\archivo de productos\obj\Debug\archivo de productos.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Escritorio\Proyectos\archivo de productos\archivo de productos\obj\Debug\archivo de productos.exe
+C:\Users\alexi\OneDrive\Escritorio\Proyectos\archivo de productos\archivo de productos\obj\Debug\archivo de productos.pdb
